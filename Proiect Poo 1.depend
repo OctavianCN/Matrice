@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553282960 source:e:\teme\proiect poo 1\main.cpp
+	<iostream>
+	<cassert>
+	"Matrice.h"
+
+1553282857 e:\teme\proiect poo 1\include\matrice.h
+	<iostream>
+	<stdexcept>
+
+1553283129 source:e:\teme\proiect poo 1\src\matrice.cpp
+	"Matrice.h"
+	<iostream>
+	<stdexcept>
+
